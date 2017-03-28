@@ -20,7 +20,7 @@ To discover what can be done with Markdown in *Markdown Here*, check out the [Ma
 ![screenshot of conversion](https://raw.github.com/adam-p/markdown-here/master/store-assets/markdown-here-image1.gimp.png)
 
 ### Table of Contents
-**[Installation Instructions](#installation instructions)**  
+**[Installation Instructions](#installation-instructions)**  
 **[Usage Instructions](#usage-instructions)**  
 **[Troubleshooting](#troubleshooting)**  
 **[Compatibility](#compatibility)**  
@@ -28,7 +28,7 @@ To discover what can be done with Markdown in *Markdown Here*, check out the [Ma
 **[Building the Extension Bundles](#building-the-extension-bundles)**  
 **[Next Steps, Credits, Feedback, License](#next-steps)**  
 
-### Installation Instructions
+### Installation Instruction
 
 ### Chrome
 
