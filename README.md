@@ -28,7 +28,7 @@ To discover what can be done with Markdown in *Markdown Here*, check out the [Ma
 **[Building the Extension Bundles](#building-the-extension-bundles)**  
 **[Next Steps, Credits, Feedback, License](#next-steps)**  
 
-## Installation Instructions
+### Installation Instructions
 
 ### Chrome
 
